@@ -9,6 +9,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+__pycache__/
+*.py[cod]
+*.pyc
+.idea
 .venv
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
